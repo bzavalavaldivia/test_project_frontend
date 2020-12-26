@@ -1,4 +1,10 @@
-# surveys-client
+# Test Project Frontend
+
+![](https://i.ibb.co/GdwxYVc/frontend1.jpg)
+![](https://i.ibb.co/VgkKGVV/frontend2.jpg)
+
+### Requirements
+* Node.js v8.9 or above (v10+ recomended)
 
 ## Project setup
 ```
